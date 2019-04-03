@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "38137140160",
+    "firebase_url": "https://veganblogapp.firebaseio.com",
+    "project_id": "veganblogapp",
+    "storage_bucket": "veganblogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38137140160:android:bd56cdcf71f7edc7",
+        "android_client_info": {
+          "package_name": "com.veganblog4all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38137140160-kdegvdkep1l4e7uf6jnobkfo3uoilk0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb71I-t9TXt_Amk9OpIiLRKyJLRL50zy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
